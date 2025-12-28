@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.title("🎈 My new app Streamlit app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.image('1.jpg.jpg','this is python desktop wallpaper')
+st.audio('main.mp3')
+st.video('main.mp4')
